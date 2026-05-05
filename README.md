@@ -4,9 +4,10 @@
         <tr>
             <td width="100px"> <img src="R.png" width="100"> </td> <td align="center">
                 <font face="Arial" size="6" color="#003366">Достопримечательности России</font>
-                <marquee scrollamount="5" href="main.html">Добро пожаловать в виртуальное путешествие по великой стране!</marquee>
+                <marquee scrollamount="5" >Добро пожаловать в виртуальное путешествие по великой стране!</marquee>
             </td>
         </tr>
     </table>
+        <a  href="main.html"> главная</a>
 </body>
 </html>
