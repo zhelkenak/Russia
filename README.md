@@ -1,4 +1,4 @@
-HTML
+
 <html>
 <body bgcolor="#E0F2F7"> <table width="100%">
         <tr>
